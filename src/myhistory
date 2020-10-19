@@ -1,0 +1,500 @@
+   70  mkdir javascript
+   71  cd javascript/
+   72  pwd
+   73  clear
+   74  echo "# javascript" >> README.md
+   75  ll
+   76  git init
+   77  git commit -m "first commit after creating javascript repo"
+   78  ll
+   79  git add -A .
+   80  git commit -m "Committing all files after adding "
+   81  git remote add origin https://github.com/Ernest-hub/javascript.git
+   82  git remote add origin https://github.com/Ernest-hub/javascript.git
+   83  git pull
+   84  git git@github.com:Ernest-hub/javascript.git
+   85  git clone git@github.com:Ernest-hub
+   86  /
+   87  ll
+   88  cd ..
+   89  ll
+   90  Ernest-hub
+   91  /
+   92  Ernest-hub
+   93  /
+   94  pwd
+   95  git clone git@github.com:Ernest-hub
+   96  /
+   97  pwd
+   98  git clone git@github.com:Ernest-hub/javascript.git
+   99  mkdir move_now
+  100  mv -rf javascript/ move_now/
+  101  pwd
+  102  mv -rf javascript/ /c/Users//kofi/move_now/
+  103  mv -f javascript/ /c/Users//kofi/move_now/
+  104  ll
+  105  ll
+  106  pwd
+  107  git clone git@github.com:Ernest-hub/javascript.git
+  108  git remote add origin https://github.com/Ernest-hub/javascript.git
+  109  git push -u origin master
+  110  ll
+  111  pwd
+  112  ll
+  113  pwd
+  114  cd javascript/
+  115  ll
+  116  clear
+  117  git init
+  118  git remote add origin https://github.com/Ernest-hub/javascript.git
+  119  git remote -v
+  120  ll
+  121  git add .
+  122  git commit -m "commit commit after adding all files"
+  123  git push origin master
+  124  git status
+  125  ll
+  126  git branch
+  127  git pull
+  128  ll
+  129  exit
+  130  /c/Users/kofi/Desktop/Games_night
+  131  history
+  132  time
+  133  pwd
+  134  who
+  135  whoami
+  136  users
+  137  exit
+  138  history
+  139  git mshow
+  140  git show
+  141  q
+  142  clear
+  143  whoami
+  144  ll
+  145  pwd
+  146  clear
+  147  ll
+  148  cd Git/
+  149  ll
+  150  history
+  151  cd ..
+  152  history
+  153  who
+  154  whoami
+  155  clear
+  156  ll
+  157  pwd
+  158  mkdir book_marks
+  159  cd book_marks/
+  160  ll
+  161  git add .
+  162  git add -A .
+  163  git commit -m "first commit"
+  164  git remote add origin git@github.com:Ernest-hub/bookmarks_websites.git
+  165  echo "# bookmarks_websites" >> README.md
+  166  git init
+  167  git add README.md
+  168  ll
+  169  git remote add origin https://github.com/Ernest-hub/bookmarks_websites.git
+  170  git push -u origin master
+  171  ll
+  172  git show
+  173  git status
+  174  git add -A .
+  175  git remote add origin https://github.com/Ernest-hub/bookmarks_websites.git
+  176  git show
+  177  git add -A .
+  178  git show
+  179  git commit
+  180  git commit -m "second committing"
+  181  git push -u origin master
+  182  git show
+  183  clear
+  184  ll
+  185  ll
+  186  pwd
+  187  git show
+  188  clear 
+  189  git status
+  190  git add -A .
+  191  pwd
+  192  ll
+  193  git status
+  194  git add -A .
+  195  git commit -m "committing after adding .json file"
+  196  git push -u origin master
+  197  history
+  198  clear
+  199  ll
+  200  cd ..
+  201  ll
+  202  ll
+  203  cd Po
+  204  cd Project-6/
+  205  ll
+  206  cat package.json 
+  207  ll
+  208  cd ..
+  209  ll
+  210  cd frontend-portfolio/
+  211  ll
+  212  git status
+  213  pwd
+  214  ll
+  215  l
+  216  ll
+  217  clear
+  218  vi package.json 
+  219  cat package.json 
+  220  clear
+  221  ll
+  222  history
+  223  git branch
+  224  git status
+  225  git pull
+  226  clear
+  227  history
+  228  git remote add origin https://github.com/Ernest-hub/frontend-portfolio.git
+  229  git add -A .
+  230  git status
+  231  git commit -m "committing quiz_app, todo-list, bookmarks_list for deployment"
+  232  history
+  233  git push -u origin master
+  234  ll
+  235  git init
+  236  ll
+  237  git remote add origin https://github.com/Ernest-hub/frontend-portfolio.git
+  238  git add -A .
+  239  git commit -m "committing quiz_app, todo-list, bookmarks_list for deployment"
+  240  git push -u origin master
+  241  git pull
+  242  ll
+  243  git branch --set-upstream-to=origin/<branch> master
+  244  git pul remote https://github.com/Ernest-hub/frontend-portfolio.git
+  245  git pull remote https://github.com/Ernest-hub/frontend-portfolio.git
+  246  git pull remote git@github.com:Ernest-hub/frontend-portfolio.git
+  247  git remote add origin git@github.com:Ernest-hub/frontend-portfolio.git
+  248  git remote -v
+  249  git add .
+  250  git commit -m "commit after connecting to remote repository"
+  251  git push origin master
+  252  git push
+  253  git push --set-upstream git@github.com:Ernest-hub/frontend-portfolio.git
+  254  ll
+  255  echo "# Javascript Assignment" >> README.md
+  256  git init
+  257  git add README.md
+  258  git commit -m "first commit"
+  259  git remote add origin git@github.com:Ernest-hub/book_lists.git
+  260  cd ..
+  261  ll
+  262  mkdir assignment_6
+  263  cd assignment_6/
+  264  ll
+  265  echo "# book_lists" >> README.md
+  266  echo "All apps for assignment_6" >> README.md 
+  267  cat README.md 
+  268  git init
+  269  ll
+  270  git add README.md
+  271  git commit -m "first commit"
+  272  git remote add origin git@github.com:Ernest-hub/book_lists.git
+  273  git push -u origin master
+  274  git remote add origin https://github.com/Ernest-hub/book_lists.git
+  275  git remote add origin git@github.com:Ernest-hub/book_lists.git
+  276  git push -u origin master
+  277  ll
+  278  git remote -v
+  279  git add .
+  280  git commit -m “first commit”
+  281  ll
+  282  git commit -m “first commit after new repo”
+  283  git clone 
+  284  git clone git@github.com:Ernest-hub/To_do_list.git
+  285  cd ..
+  286  ll
+  287  exit
+  288  ll
+  289  mkdir Project_6
+  290  git clone git@github.com:Ernest-hub/To_do_list.git
+  291  ll
+  292  clear
+  293  ll
+  294  ll -a
+  295  rpwd
+  296  pwd
+  297  ll
+  298  cd Project_6/
+  299  pwd
+  300  ll
+  301  ll
+  302  ll
+  303  cd ..
+  304  cd Project_6/
+  305  cd quiz_app/
+  306  rm -rf .git
+  307  ls 
+  308  git init
+  309  clear
+  310  history
+  311  ls -al
+  312  fit add -A .
+  313  git add -A .
+  314  git status
+  315  git commit -m "committing to quiz_app"
+  316   cd ..
+  317  pwd
+  318  cd quiz_app/
+  319  rm -rf .git/
+  320  ls -a
+  321  cd .. 
+  322  pwd
+  323  ll
+  324  git init
+  325  git add -A .
+  326  git status
+  327  git commit -m "committing after adding quiz_app"
+  328  git remote add origin git@github.com:Ernest-hub/frontend-portfolio.git
+  329  pwd
+  330  pwd
+  331  ll
+  332  git status
+  333  git add -A .
+  334  git commit -m "committing after clone"
+  335  git status
+  336  git push origin master
+  337  pwd
+  338  cd ..
+  339  pwd
+  340  ls
+  341  cd Project_6/
+  342  ll
+  343  ls -a
+  344  pw
+  345  dpwd
+  346  pwd
+  347  clear
+  348  ll
+  349  ll -a
+  350  pwd
+  351  ls -a
+  352  git init
+  353  git add -A .
+  354  git status
+  355  clear
+  356  git remote add origin git@github.com:Ernest-hub/frontend-portfolio.git
+  357  git remote -v
+  358  cd ~/.ssh
+  359  pwd
+  360  ls 
+  361  ls -ltra
+  362  ssh-keygen -t rsa -C "mrnerorr2@gmail.com"
+  363  ssh-keygen -t rsa -C "mrnerorr2@gmail.com"
+  364  ls -a
+  365  ll
+  366  pwd
+  367  pwd
+  368  cd ..
+  369  ll
+  370  cd Project_6/
+  371  ll
+  372  git add -A .
+  373  git commit -m "commiting after RSA key add"
+  374  git status
+  375  git remote add origin git@github.com:Ernest-hub/frontend-portfolio.git
+  376  git push -u origin master
+  377  git pull
+  378  git pull origin master
+  379  pwd
+  380  git remote set-url origin git@github.com:Ernest-hub/project-all.git
+  381  ll
+  382  git add -A .
+  383  git commit -m "committing again"
+  384  git push -u origin master
+  385  history
+  386  exit
+  387  ll
+  388  git remote -v
+  389  ll
+  390  pwd
+  391  cd Project_6/
+  392  ll
+  393  ll
+  394  git status
+  395  git add -A .
+  396  git commit -m "changing the correct quiz_app after replacing"
+  397  git push -u origin master
+  398  clear
+  399  pwd
+  400  ll
+  401  ll
+  402  cd My_Book_List/
+  403  ll
+  404  cat app.js 
+  405  clear
+  406  cd ..
+  407  git status
+  408  git add -A .
+  409  git status
+  410  git commit -m "Committing to My_Book_List after corrections"
+  411  git push -u origin master
+  412  git show
+  413  ll
+  414  git status
+  415  git add -A .
+  416  git commit -m "second committing after correcting MyBookList"
+  417  git push -u origin master
+  418  git status
+  419  pwd
+  420  ll
+  421  git add -A .
+  422  git status
+  423  git commit -m "Commiting Kezia's My-Booklist_App"
+  424  git status
+  425  git push
+  426  ll
+  427  git add -A .
+  428  git commit -m "Commiting Kezia's MyBooklistKez"
+  429  git status
+  430  git push
+  431  git status
+  432  ll
+  433  exit
+  434  git status
+  435  git remote
+  436  git remote -v
+  437  ell
+  438  ll
+  439  clear
+  440  exit
+  441  git status
+  442  git diff
+  443  q
+  444  clear
+  445  exit
+  446  pwd
+  447  git remote -v
+  448  git granch
+  449  git branch
+  450  git remote -v
+  451  history
+  452  exit
+  453  pwd
+  454  ll
+  455  ls -ltra ssh
+  456  clear
+  457  mkdir .ssh
+  458  ll
+  459  ll -a
+  460  clear
+  461  mkdir .ssh
+  462  ls -ltra .ssh
+  463  mkdir .ssh
+  464  mkdir ssh
+  465  ll
+  466  cd ssh/
+  467  pcd
+  468  pwd
+  469  ssh ssh-keygen.exe
+  470  ssh-keygen.exe
+  471  ll
+  472  ll
+  473  cd ..
+  474  ll
+  475  ll -
+  476  LL -a
+  477  ll
+  478  ls -ltra
+  479  cd Project_6/
+  480  ll
+  481  ll -a
+  482  cd .git/
+  483  ll
+  484  cd ..
+  485  find .ssh
+  486  pwd
+  487  cd ..
+  488  pwd
+  489  find .ssh
+  490  cat .ssh/
+  491  cat .ssh/id_rsa
+  492  cat .ssh/id_rsa.pub 
+  493  cat .ssh/known_hosts 
+  494  cat .ssh/known_hosts 
+  495  clear
+  496  heroku --version
+  497  pwd
+  498  ll
+  499  heroku -- version
+  500  exit
+  501  pwd
+  502  cd Desktop/
+  503  pwd
+  504  history
+  505  ll
+  506  cs frontend-portfolio-master
+  507  ll
+  508  cd
+  509  ls
+  510  clear
+  511  pwd
+  512  cd frontend-portfolio/
+  513  ll
+  514  cat package.json 
+  515  cat README.md 
+  516  cd ..
+  517  cd frontend-portfolio/
+  518  l
+  519  pwd
+  520  ll
+  521  cat package.json 
+  522  c
+  523  cleaar
+  524  pwd
+  525  clear
+  526  cd Desktop
+  527  cd 
+  528  pwd
+  529  cd Desktop/
+  530  cd Ernest/
+  531  ll
+  532  cd jquery-projects/
+  533  ll
+  534  pwd
+  535  clear
+  536  echo "# jquery-projects" >> README.md
+  537  ll
+  538  git init
+  539  git branch -M master
+  540  git branch
+  541  git remote add origin git@github.com:Ernest-hub/jquery-projects.git
+  542  git status
+  543  clear
+  544  git add -A
+  545  git status
+  546  git commit -m "committing jquery websites to github for Heroku deployment"
+  547  git status
+  548  git remote -v
+  549  clear
+  550  git push -u origin master
+  551  git push -u origin master
+  552  git push -u origin master
+  553  git add -A
+  554  git commit -m "renaming jquery website folder to github for Heroku deployment"
+  555  git push -u origin master
+  556  clear
+  557  pwd
+  558  cd ..
+  559  pwd
+  560  npm install -g create-react-app
+  561  create-react-app ideaboard
+  562  ll
+  563  cd ideaboard/
+  564  ll
+  565  cd src/
+  566  ll
+  567  cat index.css 
+  568  history
+  569  history > myhistory
